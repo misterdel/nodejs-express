@@ -4,7 +4,7 @@
     "description": "",
     "private": true,
     "scripts": {
-        "start": "nodemon ./bin/www"
+        "start": "nodemon ./bin/www.js"
     },
     "keywords": [],
     "author": "André Cahango",
