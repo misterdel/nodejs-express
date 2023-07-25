@@ -3,8 +3,10 @@
     "version": "1.0.0",
     "description": "",
     "private": true,
+    "main": "./bin/www",
     "scripts": {
-        "start": "nodemon ./bin/www.js"
+        "start": "node ./bin/www",
+        "dev": "nodemon ./bin/www"
     },
     "keywords": [],
     "author": "André Cahango",
